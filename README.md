@@ -44,6 +44,6 @@ A team game jam project that gave me experience working under time limits, colla
 
 ## Contact
 
-The best way to contact me is through email.
+The best way to contact me is by email.
 
 - Email: tspangler1234@gmail.com
