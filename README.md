@@ -15,7 +15,7 @@ I'm a student at Florida Polytechnic University currently pursuing my master's d
 | Programming | Python, C-family languages, Java, Markdown |
 | Version Control | Git, GitHub |
 | Game Development | C#, GDScript, Unity, Godot |
-| Other Tools / Libraries | VS Code, GitHub |
+| Other Tools | VS Code, RStudio |
 
 ## Featured Projects
 
